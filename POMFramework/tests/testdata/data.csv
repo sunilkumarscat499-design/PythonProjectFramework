@@ -1,0 +1,4 @@
+email,password,validation
+sunil321@gmail.com,Arjith@123,valid
+vadde123@gmail.com,Test@123,valid
+vadde123@gmail.com,invalid@123,invalid

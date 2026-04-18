@@ -1,0 +1,4 @@
+[{"username": "sunil321@gmail.com", "password": "Arjith@123","validation": "valid"},
+  {"username": "vadde123@gmail.com", "password": "Test@123","validation": "valid"},
+  {"username": "vadde123@gmail.com", "password": "invalid@123","validation": "invalid"}
+]
